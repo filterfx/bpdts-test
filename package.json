@@ -3,14 +3,14 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "dependencies": {
-    "cypress": "^4.9.0"
-  },
-  "devDependencies": {},
   "scripts": {
     "cy:test": "cypress run",
     "cy:open": "cypress open"
   },
   "author": "Maliq Ali",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^4.9.0"
+  }
+
 }
