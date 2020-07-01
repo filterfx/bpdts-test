@@ -1,6 +1,8 @@
 # BPDTS API Test Framework
 
-This is a repo with tests using `Cypress` to run API integration tests against http://bpdts-test-app-v2.herokuapp.com/
+This is a repo with tests using `Cypress` to run API integration tests against:
+
+http://bpdts-test-app-v2.herokuapp.com/
 
 ## Library used
 
