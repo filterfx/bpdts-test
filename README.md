@@ -27,6 +27,6 @@ To run the tests on your terminal, run
 
 To run the tests against the Cypress Test Runner, run
 
-`npm run cypress open`
+`npm run cy:open`
 
 Once the test runner has loaded, click on the spec file you wish to test.
