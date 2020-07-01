@@ -2,7 +2,7 @@
 
 This is an example repo on how to use `Cypress` to run API integration tests against http://bpdts-test-app-v2.herokuapp.com/
 
-## Libraries and plugins used
+## Library used
 
 - [Cypress](https://www.cypress.io/)
 
